@@ -28,9 +28,7 @@ are nineteen files, which are 3DSlicer bundles. When opened with 3DSlicer, they 
 from a set of models (see the Case Atlas table over) aged from #### to ####days.
 	⁃In this new issue, 17/09/2025, the files have been improved, notably the models have been oriented according to the 3D Box,
 	which means that you can set the correct orientation of this model by clicking in the box in the right superior angle of any 3D display.
-##	⁃6 Skull Atlas ####-####d.obj
-	are the models in .obj format if you prefer to use them with other applications than 3D Slicer.
-##	⁃7 Skull Atlas over Satanin's chart:
+##	⁃6 Skull Atlas over Satanin's chart:
 	is a display of the chart of brain growth according to Satanin, where the area of the group of CT scans’ age range is superposed.
-	-Details about the Atlas’s construction and use may be found in this peer-reviewed paper in the 
+	-7 Details about the Atlas’s construction and use may be found in this peer-reviewed paper in the 
 	Journal of Craniofacial Surgery. [DOI: 10.1097/SCS.0000000000012132](url)
